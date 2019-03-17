@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552209586 source:f:\code\cpp\codeblocks\algorithm\offers\pdd_4\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

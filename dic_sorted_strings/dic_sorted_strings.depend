@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535444326 source:f:\code\cpp\codeblocks\algorithm\dic_sorted_strings\main.cpp
+	<iostream>
+	<vector>
+

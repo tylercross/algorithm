@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1535008958 source:f:\code\cpp\codeblocks\algorithm\heapsort\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	"permutation.h"
+
+1535006897 f:\code\cpp\codeblocks\algorithm\heapsort\permutation.h
+	<ctime>
+	<cstdlib>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1552731466 source:f:\code\cpp\codeblocks\algorithm\basic_sort\main.cpp
+	"bubble.h"
+	"select.h"
+	"insert.h"
+	"merge.h"
+	"quick.h"
+	<limits.h>
+	<vector>
+
+1552730841 f:\code\cpp\codeblocks\algorithm\basic_sort\bubble.h
+	<iostream>
+	<stdio.h>
+	<vector>
+
+1534686293 f:\code\cpp\codeblocks\algorithm\basic_sort\select.h
+
+1552731401 f:\code\cpp\codeblocks\algorithm\basic_sort\insert.h
+	<vector>
+
+1552732436 f:\code\cpp\codeblocks\algorithm\basic_sort\merge.h
+
+1552729867 f:\code\cpp\codeblocks\algorithm\basic_sort\quick.h
+	<vector>
+

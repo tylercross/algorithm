@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535285888 source:f:\code\cpp\codeblocks\algorithm\stringpattern\main.cpp
+	<iostream>
+	<string>
+

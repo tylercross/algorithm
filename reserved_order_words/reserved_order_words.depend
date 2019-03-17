@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1535440990 source:f:\code\cpp\codeblocks\algorithm\reserved_order_words\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

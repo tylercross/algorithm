@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1534995507 source:f:\code\cpp\codeblocks\algorithm\priority-queue\heap.cpp
+	<limits.h>
+	<iostream>
+	"heap.h"
+
+1534947477 f:\code\cpp\codeblocks\algorithm\priority-queue\heap.h
+
+1534995805 source:f:\code\cpp\codeblocks\algorithm\priority-queue\heaptest.cpp
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<fstream>
+	"heap.h"
+

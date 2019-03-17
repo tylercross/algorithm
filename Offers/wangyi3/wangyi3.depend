@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552109246 source:f:\code\cpp\codeblocks\algorithm\offers\wangyi3\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

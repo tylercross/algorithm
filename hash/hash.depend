@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1534860534 source:f:\code\cpp\codeblocks\algorithm\hash\hashtable.cpp
+	"HashTable.h"
+
+1534920454 f:\code\cpp\codeblocks\algorithm\hash\hashtable.h
+	"LinkedList.h"
+
+1534920454 f:\code\cpp\codeblocks\algorithm\hash\linkedlist.h
+	<iostream>
+	<string>
+
+1534858309 source:f:\code\cpp\codeblocks\algorithm\hash\linkedlist.cpp
+	"LinkedList.h"
+
+1534909226 source:f:\code\cpp\codeblocks\algorithm\hash\main.cpp
+	"HashTable.h"
+

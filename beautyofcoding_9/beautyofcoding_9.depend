@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535420569 source:f:\code\cpp\codeblocks\algorithm\beautyofcoding_9\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551866300 source:f:\code\cpp\codeblocks\algorithm\offers\offer_48\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

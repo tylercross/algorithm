@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1535014364 source:f:\code\cpp\codeblocks\algorithm\topsort\main.cpp
+	<iostream>
+	<list>
+	<queue>
+	<stack>
+	<map>
+	<string>
+	"Graph.h"
+
+1535013140 f:\code\cpp\codeblocks\algorithm\topsort\graph.h
+	"Edge.h"
+	"Vertex.h"
+	"Graph.cpp"
+
+1535013317 f:\code\cpp\codeblocks\algorithm\topsort\edge.h
+
+1535015647 f:\code\cpp\codeblocks\algorithm\topsort\vertex.h
+	"Vertex.cpp"
+
+1535015465 f:\code\cpp\codeblocks\algorithm\topsort\vertex.cpp
+	"Vertex.h"
+
+1535013384 f:\code\cpp\codeblocks\algorithm\topsort\graph.cpp
+	"Graph.h"
+
